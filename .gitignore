@@ -1,0 +1,5 @@
+*.identcache
+*.local
+*.dcu
+*.rsm
+Win32/Debug
